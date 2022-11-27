@@ -3,9 +3,7 @@ import { Injectable } from '@angular/core';
 import {HttpClient, HttpErrorResponse, HttpHeaders} from '@angular/common/http'
 import { catchError, map, of, retry, tap, throwError } from 'rxjs';
 
-@Injectable({
-  providedIn: null
-})
+@Injectable()
 export class DonutService {
   private donuts : Donut[]=[];
   constructor(private http:HttpClient) { }

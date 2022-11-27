@@ -2,7 +2,7 @@
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/angular.svg">
 Proyecto terminado por Francisco Velasquez Angular v15 Ultimate Donuts
 </h1>
-<h4 align="center">Proyecto realizado para el curso de Angular Basics <a href="https://ultimatecourses.com/learn/angular-basics" target="_blank">Angular Basics course</a>.</h4>
+<h4 align="center">Proyecto refactorizado para usar standalone components para el curso de Angular Basics <a href="https://ultimatecourses.com/learn/angular-basics" target="_blank">Angular Basics course</a>.</h4>
 
 ---
 
@@ -13,16 +13,6 @@ Proyecto terminado por Francisco Velasquez Angular v15 Ultimate Donuts
 ---
 
 ### Inside the course
-
-* ✅ Template Essentials
-* ✅ Component Architecture
-* ✅ Styles and Encapsulation
-* ✅ Pipes
-* ✅ Rendering Flows
-* ✅ Template Forms and Validation
-* ✅ State Management and Services
-* ✅ Services and API Requests
-* ✅ Routing and Navigation
 * ✅ Standalone Components
 
 El proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli).
